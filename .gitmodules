@@ -1,3 +1,6 @@
 [submodule "RIOT"]
 	path = RIOT
 	url = https://github.com/unwireddevices/RIOT.git
+[submodule "stm32flash"]
+	path = stm32flash
+	url = https://github.com/unwireddevices/stm32flash.git
